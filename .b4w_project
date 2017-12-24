@@ -1,0 +1,30 @@
+[info]
+author = Mitssoft
+icon = .b4w_icon.png
+name = PirateIsland
+title = Pirate Island
+
+[paths]
+assets_dirs = projects/PirateIsland/assets;
+blend_dirs = projects/PirateIsland/blender;
+blender_exec = C:\Program Files\Blender Foundation\Blender2.79\blender.exe
+build_dir = projects/PirateIsland/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = True
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
+[url_params]
+
